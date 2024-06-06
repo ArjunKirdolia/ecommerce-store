@@ -1,8 +1,33 @@
-# React + Vite
+## Express.com eCommerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Express.com eCommerce website! This project was built using React.js with Vite and styled with Tailwind CSS.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+
+
+## Demo
+
+You can see a live demo of our eCommerce website [here](https://e-commerceexpress.netlify.app/).
+
+
+## Features
+
+- Responsive design for mobile, tablet, and desktop
+- Product catalog with categories and search functionality
+- User authentication and account management
+- Shopping cart and checkout process
+- Order history and tracking
+- Admin dashboard for managing products, orders, and users
+
+## Technologies Used
+
+- React.js
+- Vite
+- Tailwind CSS
+- React Router
+- Axios (for API requests)
+  
